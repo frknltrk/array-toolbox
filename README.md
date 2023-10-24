@@ -6,7 +6,7 @@ Array Toolbox is a simple web app that allows you to perform basic array operati
 
 ## Usage
 
-Visit the live demo: [Array Toolbox Demo](https://yourusername.github.io/array-toolbox)
+Visit the live demo: [Array Toolbox Demo](https://frknltrk.github.io/array-toolbox)
 
 To use this web app, follow these steps:
 
@@ -28,7 +28,7 @@ Feel free to customize this web app according to your needs. You can modify the 
 
 If you want to work on this project locally, clone the repository:
 
-`$ git clone https://github.com/yourusername/array-toolbox.git`
+`$ git clone https://github.com/frknltrk/array-toolbox.git`
 
 Make your changes, and don't forget to test them thoroughly.
 
